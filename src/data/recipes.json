@@ -1,0 +1,37 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Filete de pollo a la plancha",
+      "ingredients": ["Filete de pollo", "Tomillo", "Orégano", "Sal", "Aceite", "Ajo"],
+      "preparation": [
+        "Lavar los filetes de pollo",
+        "Cubrir ambas caras del filete con una pizca de orégano, sal y aceite",
+        "Dejar reposar el pollo junto con las especias durante al menos 15 minutos",
+        "Moler un diente de ajo y calentarlo junto con aceite en una sartén",
+        "Cuando el aceite esté caliente, meter el pollo en la sarten y freirlo a fuego medio hasta que se dore por ambas caras"
+      ],
+      "tools": ["Sartén"],
+      "tags": [],
+      "category": ["Plato fuerte", "Pollo", "Salado", "Proteína"],
+      "level": 5,
+      "time": 60
+    },
+    {
+      "id": 2,
+      "title": "Platanitos acaramelizados",
+      "ingredients": ["Plátano maduro", "Azúcar", "Agua"],
+      "preparation": [
+        "Cocinar el plátano pelado y tajado en una sartén con una cucharadita de aceite a fuego bajo",
+        "En una olla a parte poner a hervir medio vaso de agua y tres cucharadas de azúcar",
+        "Cuando el azúcar se disuelva en el agua y tome consistencia, vertir la mezcla sobre los plátanos",
+        "Continuar la cocción de los plátanos hasta que se doren por ambos lados"
+      ],
+      "tools": ["Olla", "Sartén"],
+      "tags": ["Caramelo"],
+      "category": ["Postre", "Guarnición", "Dulce"],
+      "level": 2,
+      "time": 30
+    }
+  ]
+}
